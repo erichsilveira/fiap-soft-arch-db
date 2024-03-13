@@ -30,6 +30,10 @@ O modelo relacional oferecido pelo banco de dados SQL é altamente adequado para
 
 7. **order_products:** Armazenará os produtos do pedido, permitindo a associação de produtos a pedidos específicos.
 
+### Diagrama
+
+![image](./docs/database.png)
+
 ## Consultas Complexas
 A linguagem SQL proporciona a capacidade de realizar consultas complexas de maneira eficiente, permitindo a recuperação de dados específicos, agregações e filtragem com relativa facilidade. Isso é crucial em um sistema de entrega de comida, onde a rápida recuperação de informações precisas, como histórico de pedidos de um cliente ou produtos mais vendidos, é essencial para a tomada de decisões operacionais.
 
