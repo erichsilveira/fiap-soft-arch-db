@@ -36,7 +36,7 @@ O modelo relacional oferecido pelo banco de dados SQL é altamente adequado para
 
 ## Consultas Complexas
 A linguagem SQL proporciona a capacidade de realizar consultas complexas de maneira eficiente, permitindo a recuperação de dados específicos, agregações e filtragem com relativa facilidade. Isso é crucial em um sistema de entrega de comida, onde a rápida recuperação de informações precisas, como histórico de pedidos de um cliente ou produtos mais vendidos, é essencial para a tomada de decisões operacionais.
-
+ 
 ## Transações e Consistência
 Os bancos de dados SQL são conhecidos por oferecerem suporte a transações, garantindo atomicidade, consistência, isolamento e durabilidade (ACID). Em um ambiente de entrega de comida, onde a manipulação de pedidos e pagamentos ocorre frequentemente, a garantia de que as transações sejam tratadas de maneira segura e consistente é fundamental para evitar problemas como pedidos duplicados ou inconsistências nos registros financeiros.
 
